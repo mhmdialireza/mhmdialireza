@@ -1,3 +1,5 @@
+![logo](https://github.com/mhmdialireza/mhmdialireza/blob/main/github-banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Alireza Mohammadi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
